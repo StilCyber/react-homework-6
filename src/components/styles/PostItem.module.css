@@ -1,0 +1,11 @@
+.post {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid teal;
+    padding: 10px 10px;
+}
+.content {
+    display: flex;
+    column-gap: 15px; 
+}
